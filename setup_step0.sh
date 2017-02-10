@@ -13,8 +13,8 @@ echo "# ============================================================
 #        o---o---o feature2
 ###
 #   GOAL:
-#     1) Emphasize difference between merge and rebase
-#     2) Learn how git stash might help
+#     1) Have finally only one branch step0 with all commits from
+#     feature1 and then all commits from feature2
 # ============================================================" > README
 
 git checkout -b feature1

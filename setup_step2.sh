@@ -3,7 +3,7 @@ git checkout -b step2
 echo "# ============================================================
 #   STEP 2: MOVE FILE TO ANOTHER BRANCH
 # ============================================================
-#   There is work in progres on a several features, but
+#   There is work in progress on a several features, but
 #   by mistake one file was commited to a wrong branch.
 #
 #                FILE.txt
@@ -15,7 +15,7 @@ echo "# ============================================================
 #        o---o---o feature2
 ###
 #   GOAL:
-#     1) Find the plase where FILE.txt is stored
+#     1) Find the place where FILE.txt is stored
 #     2) Remove it from that place on feature1
 #     3) Move FILE.txt to feature2
 #
